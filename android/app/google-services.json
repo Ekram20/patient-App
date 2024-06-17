@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "884494493591",
+    "project_id": "clinic-project-17f49",
+    "storage_bucket": "clinic-project-17f49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884494493591:android:76dda9579647990af146d2",
+        "android_client_info": {
+          "package_name": "com.example.ekram_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZBVcar1eT7HiEk5Ie2LQ2sAqs83mfwDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

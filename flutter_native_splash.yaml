@@ -1,0 +1,31 @@
+flutter_native_splash:
+
+  #Background color of splash screen
+#  color: "#389488"
+
+#   Image that you want to show
+  image: images/logo.png
+  android_gravity: fill
+
+  # Sizing of image
+#  fill: true
+
+#   Android 12 splash screen settings
+  android_12:
+#     color: "#ffffff"
+#     image: images/logo.png
+
+     image_dark: images/logo.png
+#     icon_background_color_dark: "#121212"
+
+  # Web settings
+  web: false
+#android_12:
+#   color: "#ffffff"
+#   image: images/logo.png
+#   android: true
+#   ios: true
+#   web: false
+#   android_gravity: fill
+#   ios_content_mode: scaleAspectFill
+#   fullscreen: true
